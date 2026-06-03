@@ -1,0 +1,19 @@
+# Python 3.11+
+
+# PyTorch CPU-only wheels (comment out or replace with GPU version if needed)
+# For NVIDIA GPU support, remove the line below and run manually:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+PyQt5==5.15.11
+PyQtWebEngine==5.15.7
+matplotlib==3.10.9
+numpy==2.3.5
+pandas==2.3.3
+pyomo==6.9.5
+requests==2.32.5
+openpyxl==3.1.5
+scipy==1.17.0
+numpy-financial==1.0.0
+reportlab==4.5.1
+torch==2.7.0
