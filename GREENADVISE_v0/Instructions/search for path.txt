@@ -1,6 +1,0 @@
-C:\Users\Korisnik>echo %APPDATA%
-C:\Users\Korisnik\AppData\Roaming
-
-C:\Users\Korisnik>cd %APPDATA%\GREENADVISE
-
-C:\Users\Korisnik\AppData\Roaming\GREENADVISE>
